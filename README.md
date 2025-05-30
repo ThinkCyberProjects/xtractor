@@ -11,7 +11,7 @@ Xtractor is a **command-line tool** designed for extracting structured data from
 | Type  | Description                | Example                          |
 | ----- | -------------------------- | -------------------------------- |
 | **ip** | IPv4 only, valid octets    | `192.168.1.1`                    |
-| **email** | RFC-like, strict domain format | `user.name@domain.com`           |
+| **email** | Strict domain format | `user.name@domain.com`           |
 | **phone** | International and US-like number formats | `+1-202-555-0172`, `+44 20...`    |
 | **url** | Strict HTTP(S) link        | `https://example.com/page`       |
 | **mac** | 6 hex pairs (colon-separated) | `00:1A:2B:3C:4D:5E`              |
