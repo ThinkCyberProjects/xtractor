@@ -44,14 +44,3 @@ xtractor archive.img url
 
 If no arguments are provided, xtractor will display a help menu detailing all supported types and example patterns.
 
----
-
-### License
-
-This project is licensed under the **MIT License**.
-
----
-
-### Created By
-
-DS
