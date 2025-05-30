@@ -36,7 +36,6 @@ The basic syntax for using xtractor is:
 
 xtractor <file> <type>
 
-#### Examples
 
 ### Examples
 
