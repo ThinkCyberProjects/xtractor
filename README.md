@@ -38,9 +38,13 @@ xtractor <file> <type>
 
 #### Examples
 
+### Examples
+
+```bash
 xtractor dump.bin ip
 xtractor logs.txt email
 xtractor archive.img url
+
 
 If no arguments are provided, xtractor will display a help menu detailing all supported types and example patterns.
 
