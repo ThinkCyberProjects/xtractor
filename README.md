@@ -22,7 +22,7 @@ Xtractor is a **command-line tool** designed for extracting structured data from
 
 To install xtractor, follow these steps:
 
-git clone [https://github.com/](https://github.com/)<your-username>/xtractor.git
+git clone https://github.com/ThinkCyberProjects/xtractor.git
 cd xtractor
 sudo bash install_xtractor.sh
 
